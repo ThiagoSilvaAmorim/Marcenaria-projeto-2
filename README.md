@@ -31,8 +31,7 @@ O objetivo do projeto é apresentar os serviços, portfólio e formas de contato
 ## ⚙️ Como executar o projeto
 ```bash
 # Clonar este repositório
-git clone https://github.com/[seu-usuario/rr-mobiliario.git](https://thiagosilvaamorim.github.io/Marcenaria-projeto-2/)
-
+https://thiagosilvaamorim.github.io/Marcenaria-projeto-2/
 # Acessar a pasta
 cd rr-mobiliario
 
