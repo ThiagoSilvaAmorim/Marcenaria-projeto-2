@@ -1,7 +1,9 @@
 # 🪚 RR Mobiliário
 
 Site institucional da **RR Mobiliário**, especializado em móveis planejados e sob medida.  
-O objetivo do projeto é apresentar os serviços, portfólio e formas de contato da empresa, com design responsivo e navegação intuitiva.
+O objetivo do projeto é apresentar os serviços, portfólio e formas de contato da empresa, com design responsivo e navegação intuitiva.  
+
+🔗 **Acesse o site online:** [RR Mobiliário](https://thiagosilvaamorim.github.io/Marcenaria-projeto-2/)
 
 ---
 
@@ -10,30 +12,39 @@ O objetivo do projeto é apresentar os serviços, portfólio e formas de contato
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- **HTML5** para estruturação  
-- **CSS3** para estilização e responsividade  
-- **JavaScript (ES6)** para interações dinâmicas  
-- **Font Awesome** para ícones  
-- **Google Fonts** para tipografia  
+- **HTML5** → Estrutura e semântica  
+- **CSS3** → Estilização e responsividade  
+- **JavaScript (ES6)** → Interações dinâmicas (menu mobile e botões)  
+- **Font Awesome** → Ícones  
+- **Google Fonts** → Tipografia moderna  
 
 ---
 
-## 📸 Seções do projeto
-- **Home** → apresentação da marca e chamada para orçamento  
-- **Sobre** → história e propósito da empresa  
-- **Serviços** → catálogo de serviços com ícones e descrições  
-- **Galeria** → imagens reais de projetos desenvolvidos  
-- **Contato** → formulário de orçamento, endereço, telefone e WhatsApp  
-- **Rodapé** → redes sociais e direitos autorais  
+## 📸 Demonstração do Projeto
+
+> *(Adicione prints da tela na pasta `img/` do repositório com os nomes abaixo para exibir corretamente no README)*  
+
+### 🏠 Home
+![Home](img/screenshot-home.png)
+
+### 🛠️ Serviços
+![Serviços](img/screenshot-services.png)
+
+### 🖼️ Galeria
+![Galeria](img/screenshot-gallery.png)
+
+### 📞 Contato
+![Contato](img/screenshot-contact.png)
 
 ---
 
 ## ⚙️ Como executar o projeto
 ```bash
-# Clonar este repositório
-https://thiagosilvaamorim.github.io/Marcenaria-projeto-2/
-# Acessar a pasta
-cd rr-mobiliario
+# Clonar o repositório
+git clone https://github.com/thiagosilvaamorim/Marcenaria-projeto-2.git
 
-# Executar no navegador
+# Acessar a pasta
+cd Marcenaria-projeto-2
+
+# Abrir o arquivo no navegador
 index.html
