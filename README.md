@@ -1,4 +1,4 @@
-# 🛠️ Marcenaria Projeto 2
+# 🛠️ site-movelaria-responsivo
 
 > 🌐 **Projeto de Portfólio:** Website moderno e totalmente responsivo desenvolvido para simular a presença digital de uma marcenaria, demonstrando proficiência em desenvolvimento Front-end com foco em HTML e CSS.
 
